@@ -11,3 +11,5 @@ siuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 Nǐ hǎo ma?
 
 chơi cần chơi cỏ chơi hoa, không bằng 1 phút được bên em
+
+hello cs1
